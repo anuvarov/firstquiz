@@ -1,0 +1,22 @@
+{
+  "name": "firstquiz",
+  "version": "1.0.0",
+  "description": "It's my first quiz",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuvarov/firstquiz.git"
+  },
+  "keywords": [
+    "quiz"
+  ],
+  "author": "Farid Anuvarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuvarov/firstquiz/issues"
+  },
+  "homepage": "https://github.com/anuvarov/firstquiz#readme"
+}
