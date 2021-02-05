@@ -11,13 +11,13 @@ const quiz = [
     },
     {
         q: "A: 'How old ______?'   B: 'I ______ .'",
-        options:['are you / am 20 years old.', ' have you / have 20 years old', ' are you / am 20 years.', ' do you have / have 20 years.'],
+        options:['are you / am 20 years old.', 'have you / have 20 years old', 'are you / am 20 years.', 'do you have / have 20 years.'],
         answer:0
     },
     {
         q: 'I ______ to the cinema.',
         options:['not usually go', "don't usually go", "don't go usually", 'do not go usually'],
-        answer:0
+        answer:1
     },
     {
         q: 'Where ______ ?',
@@ -27,7 +27,7 @@ const quiz = [
     {
         q: 'The test is ______ February.',
         options:['in', 'at', 'on', 'over'],
-        answer:2
+        answer:0
     },
     {
         q: 'I eat pasta ______ week.',
@@ -37,12 +37,12 @@ const quiz = [
     {
         q: "I don't have ______ free time.",
         options:['many', 'any', 'a lot', 'some'],
-        answer:2
+        answer:1
     },
     {
         q: "A: '_____ to the cinema tomorrow?'",
-        options:['We will go', 'Do we go', '. We go', 'Shall we go'],
-        answer:2
+        options:['We will go', 'Do we go', 'We go', 'Shall we go'],
+        answer:3
     },
     {
         q: 'We went to the market ______ some vegetables.',
